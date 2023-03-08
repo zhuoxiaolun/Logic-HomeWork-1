@@ -1,0 +1,44 @@
+p{
+    font-size: 20pt;
+    color:	#30D5C8;
+    margin: 10px;
+}
+
+.box{
+    display: flex;
+   
+}
+#click1{
+    flex: none;
+    margin: 10px;
+    font-size: 25pt;
+    color: 	#FFFAF0;
+    background:#FFBF00;
+    width: 150px;
+    height: 100px;
+    border-radius: 5px;
+    border-color:#4D3900 ;
+}
+
+#click2{
+    flex: none;
+    margin: 10px;
+    font-size: 25pt;
+    color: #30D5C8;
+    background:	#DC143C;
+    width: 150px;
+    height: 100px;
+    border-radius: 5px;
+    border-color:	#00CED1 ;
+}
+#click3{
+    flex: none;
+    margin: 10px;
+    font-size: 25pt;
+    color: 	#DE3163;
+    background:	#00FF80;
+    width: 150px;
+    height: 100px;
+    border-radius: 5px;
+    border-color:#800080;
+}
